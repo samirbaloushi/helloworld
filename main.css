@@ -1,0 +1,31 @@
+html,
+body,
+main {
+    height: 100%;
+}
+
+body {
+    font-family: "Roboto", serif;
+}
+
+.main_section h1 {
+    font-size: 100px;
+}
+
+.main_section p {
+    font-size: 25px;
+}
+
+a {
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 0px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: rgb(81, 25, 99);
+}
+
+a:hover {
+    background-color: rgb(96, 31, 117);
+}
